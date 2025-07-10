@@ -1,2 +1,2 @@
-# Applied-Stat
-My SAS course 
+# Applied-Statistics 
+MA SAS course
